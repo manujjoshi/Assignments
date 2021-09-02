@@ -1,0 +1,65 @@
+Cat vs Cat:
+
+Gender vs Exited - 3.279811728412383e-26
+Geography vs Exited - 1.540005467877543e-66
+
+
+
+###########################################################
+
+
+
+Num vs Num:
+
+Balance vs Age  - 0.004483724661931716
+
+
+
+#############################################################
+
+
+Cat vs Num:
+
+Balance vs Exited - 1.5250902115730688e-32
+Balance vs NoOfProducts - 8.45886744e-316
+Balance vs Geography - 0.0
+
+Age vs Gender -  0.00653858755007083
+Age vs IsActiveMember - 8.327326191587226e-18
+Age vs Exited - 6.095832426665388e-186
+Age vs NoOfProducts - 3.459557265538746e-33
+Age vs Geography - 4.51243799038626e-06
+
+
+Target Variable:
+
+Exited vs Geography - 1.540005467877543e-66
+Exited vs Gender - 3.2798117284124296e-26
+Exited vs Age - 6.095832426665388e-186
+Exited vs IsActiveMember - 5.630697635897034e-54
+Exited vs NoOfProducts - 0.0
+Exited vs Balance - 1.5250902115730688e-32
+
+
+
+
+
+<br />
+<br />
+
+## ` Summary of Variables`
+### Categorical:
+> - Geography 
+> - Gender
+> - HasCrCard
+> - IsActiveMember
+> - Exited
+> - Tenure
+> - No Of Products
+
+
+### Numerical:
+> - CreditScore
+> - Age 
+> - Balance
+> - EstimatedSalary
