@@ -1,0 +1,5 @@
+1. Perform the required Feature Engineering (Feature Selection using RFE, Feature Transformation, etc.)
+
+2. Rebuild the models (Logistic Regression, SVM, KNN, DT, RF, Gradient Boosting, AdaBoosting etc.)
+
+3. Compare the model (With Feature Engineering) Performance with previous model (Without Feature Engineering) 
